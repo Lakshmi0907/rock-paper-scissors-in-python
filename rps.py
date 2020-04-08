@@ -109,29 +109,29 @@ while(i<=50):
     s34+=n34
     s43+=n43
     if(n12>0):
-    	print("         player one won by player two")
+    	print("         player one won on player two")
     if(n13>0):
-    	print("         player one won by player three")
+    	print("         player one won on player three")
     if(n14>0):
-        print("         player one won by player four")
+        print("         player one won on player four")
     if(n21>0):
-        print("         player two won by player one")
+        print("         player two won on player one")
     if(n23>0):
-    	print("         player two won by player three")
+    	print("         player two won on player three")
     if(n24>0):
-    	print("         player two won by player four")
+    	print("         player two won on player four")
     if(n31>0):
-        print("         player three won by player one")
+        print("         player three won on player one")
     if(n32>0):
-        print("         player three won by player two")
+        print("         player three won on player two")
     if(n34>0):
-    	print("         player three won by player four")
+    	print("         player three won on player four")
     if(n41>0):
-    	print("         player four won by player one")
+    	print("         player four won on player one")
     if(n42>0):
-        print("         player four won by player two")
+        print("         player four won on player two")
     if(n43>0):
-        print("         player four won by player three")
+        print("         player four won on player three")
     i+=1
 print("*****************overal results********************")
 print("         winnings of player one on player two is",s12)
